@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Im-Rv1007/Im-Rv1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Vikas Rathod- aka Im-Rv1007 👋
 
 ## I'm a Student, Developer, and Tech-Lover!!
@@ -60,3 +56,7 @@
 [instagram]: https://instagram.com/im_rv1007
 [linkedin]: https://linkedin.com/in/vikas-rathod-1635a9156
 [webdevplaylist] : #
+
+
+<!--
+**Im-Rv1007/Im-Rv1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
