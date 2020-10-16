@@ -1,5 +1,7 @@
-### Hi there 👋
-### Hi there, I'm Vikas Rathod- aka Im-Rv1007 👋
+
+### Hello 👋
+### How are You? (Hope Smiling)
+### I'm Vikas Rathod- aka Rv
 
 ## I'm a Student, Developer, and Tech-Lover!!
 
@@ -55,7 +57,7 @@
 [youtube]: #
 [instagram]: https://instagram.com/im_rv1007
 [linkedin]: https://linkedin.com/in/vikas-rathod-1635a9156
-[webdevplaylist] : #
+[webdevplaylist] : "#"
 
 
 <!--
