@@ -44,13 +44,9 @@
 ### 📕 Latest Blog Posts
 - Work In Progress...
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vikas Rathod GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=im-rv1007&show_icons=true&hide_border=true" />
-
-</details>
-
+### GitHub Stats
+<img align="left" alt="Vikas Rathod GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=im-rv1007&show_icons=true&hide_border=true" />
+  
 [website]: #
 [twitter]: https://twitter.com/im_rv1007
 [youtube]: #
