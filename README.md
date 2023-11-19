@@ -1,58 +1,49 @@
+## 👨‍💻 Hey there, I'm Vikas Rathod, aka Rv!
 
-### Hello 👋
-### How are You? (Hope Smiling)
-### I'm Vikas Rathod- aka Rv
+### 🚀 A Learner, Developer, and Tech-Lover :
 
-## I'm a Student, Developer, and Tech-Lover!!
+- 🔭 Focused on shaping the future of technology.
+- 🌱 Currently learning everything (because why settle for less, right? 😄).
+- 💬 Ask me anything about Cricket 🏏 (or code) 🤣.
+- 😄 Pronouns: Rv (It's easy, just like coding).
+- 🥅 Wake up => Eat => Code => Sleep => Repeat.
 
-- 🔭 Focus on Future
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me anything about Cricket 🤣
-- 😄 Pronouns: Rv (It's easy)
-- 🥅 Wake up => Eat => code => Sleep => Repeat
+Let's turn ideas into innovations! 💡✨
 
-### Connect with me:
-
-[<img align="left" alt="im-Rv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Im_Rv1007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Im_Rv1007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Im_Rv1007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools I Know About :
+### Known Languages and Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="jQuery" width="26px" src="https://img.icons8.com/ios/50/000000/jquery.png" />
+<img align="left" alt="SCSS" width="26px" src="https://img.icons8.com/color/48/000000/sass.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
+<img align="left" alt="React.js" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" />
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/ios/50/000000/sql.png" />
+<img align="left" alt="PL/SQL" width="26px" src="https://img.icons8.com/ios/50/000000/sql.png" />
+<img align="left" alt="WordPress" width="26px" src="https://img.icons8.com/ios/50/000000/wordpress.png" />
+<img align="left" alt="OpenCart" width="26px" src="https://img.icons8.com/cotton/64/000000/opencart.png" />
+<img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/ios/50/000000/laravel.png" />
+<img align="left" alt="React Native" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="Canva" width="26px" src="https://img.icons8.com/color/48/000000/canva.png" />
+<img align="left" alt="Cypress" width="26px" src="https://img.icons8.com/ios/50/000000/cypress.png" />
+<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios/50/000000/console.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/material/24/000000/github.png" />
+<img align="left" alt="GitLab" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
 <br />
 <br />
 
----
+#### 📫 How to reach me
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/vikas-rathod-1635a9156/).
+- Follow me on [Instagram]([https://twitter.com/yourhandle](https://instagram.com/im_rv1007)).
 
-### 📕 Latest Blog Posts
-- Work In Progress...
+Thanks for stopping by! Let's connect and build something amazing together. 🚀
 
 ### GitHub Stats
 <img align="left" alt="Vikas Rathod GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=im-rv1007&show_icons=true&hide_border=true" />
-  
-[website]: #
-[twitter]: https://twitter.com/im_rv1007
-[youtube]: #
-[instagram]: https://instagram.com/im_rv1007
-[linkedin]: https://linkedin.com/in/vikas-rathod-1635a9156
-
-
-<!--
-**Im-Rv1007/Im-Rv1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
