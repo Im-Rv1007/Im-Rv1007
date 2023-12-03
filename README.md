@@ -26,12 +26,10 @@ Let's turn ideas into innovations! 💡✨
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/ios/50/000000/sql.png" />
 <img align="left" alt="PL/SQL" width="26px" src="https://img.icons8.com/ios/50/000000/sql.png" />
 <img align="left" alt="WordPress" width="26px" src="https://img.icons8.com/ios/50/000000/wordpress.png" />
-// <img align="left" alt="OpenCart" width="26px" src="https://img.icons8.com/cotton/64/000000/opencart.png" />
 <img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/ios/50/000000/laravel.png" />
 <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <img align="left" alt="Canva" width="26px" src="https://img.icons8.com/color/48/000000/canva.png" />
-// <img align="left" alt="Cypress" width="26px" src="https://img.icons8.com/ios/50/000000/cypress.png" />
 <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios/50/000000/console.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/material/24/000000/github.png" />
