@@ -42,6 +42,3 @@ Let's turn ideas into innovations! 💡✨
 - Follow me on [Instagram]([https://twitter.com/yourhandle](https://instagram.com/im_rv1007)).
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
-
-### GitHub Stats
-<img align="left" alt="Vikas Rathod GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=im-rv1007&show_icons=true&hide_border=true" />
