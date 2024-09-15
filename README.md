@@ -2,8 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> -->
 
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore_2.gif" alt="Aras Gungore" width="433" height="74" /> -->
-  ## Vikas Rathod 
+  <img src="https://raw.githubusercontent.com/Im-Rv1007/Im-Rv1007/blob/main/vikas-rathod.gif" alt="Vikas Rathod" width="433" height="74" /> -->
 </div>
 
 ## 👤 About Me
