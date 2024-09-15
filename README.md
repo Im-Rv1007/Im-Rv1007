@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Im-Rv1007/Im-Rv1007/blob/main/vikas-rathod.gif" alt="Vikas Rathod" width="433" height="74" /> -->
+  <img src="https://github.com/Im-Rv1007/Im-Rv1007/blob/main/vikas-rathod.gif" alt="Vikas Rathod" width="433" height="74" />
 </div>
 
 ## 👤 About Me
