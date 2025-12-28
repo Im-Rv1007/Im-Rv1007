@@ -49,7 +49,17 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart-2E8B57?style=for-the-badge&logo=opencart&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Laravel Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+--- 
+
+### 🧱 Architecture & Concepts
 ![MVC](https://img.shields.io/badge/MVC_Architecture-4B5563?style=for-the-badge)
+![RESTful_Architecture](https://img.shields.io/badge/RESTful_Architecture-0F172A?style=for-the-badge)
+![Reusable_Components](https://img.shields.io/badge/Reusable_Components-2563EB?style=for-the-badge)
+![Clean_Code](https://img.shields.io/badge/Clean_Code-16A34A?style=for-the-badge)
+![Scalable_Applications](https://img.shields.io/badge/Scalable_Applications-9333EA?style=for-the-badge)
 
 ---
 
