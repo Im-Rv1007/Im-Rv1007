@@ -12,7 +12,9 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 - ✨ Open to collaboration on challenging and meaningful projects
 
 📫 **Connect with me**
-- LinkedIn: https://in.linkedin.com/in/im-rv1007  
+- Portfolio: https://vikas-portfolio-19e8.vercel.app
+- LinkedIn: https://in.linkedin.com/in/im-rv1007
+- Instagram: https://www.instagram.com/im_rv1007
 
 ---
 
