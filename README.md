@@ -6,7 +6,7 @@ I’m a passionate Full Stack Developer with **5+ years of hands-on experience**
 From crafting clean UIs to architecting solid backends, I enjoy turning ideas into reliable digital products.
 
 - 👀 Focused on **modern web technologies**
-- ⚙️ Strong in **frontend + backend integration**
+- ⚙️ Strong in **frontend + backend integration, APIs, and headless commerce**
 - 🚀 Love building real-world, production-ready applications
 - 🌱 Constantly upgrading skills and exploring better architectures
 - ✨ Open to collaboration on challenging and meaningful projects
@@ -34,6 +34,9 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Hydrogen](https://img.shields.io/badge/Hydrogen-000000?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Headless](https://img.shields.io/badge/Shopify_Headless-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
 
 ---
 
@@ -44,6 +47,16 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart-2E8B57?style=for-the-badge&logo=opencart&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Architecture-4B5563?style=for-the-badge)
+
+---
+
+### 🔗 APIs & Data Formats
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -67,15 +80,11 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 
 ## 📈 GitHub Stats
 
-![Vikas Rathod GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rv1007&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Im-Rv1007&theme=radical)
-
----
-
-## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rv1007&layout=compact&theme=radical)
+![Vikas Rathod GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rv1007&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Im-Rv1007&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rv1007&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let’s Build Something Solid
-If you’re looking for a developer who understands **real-world projects, scalability, and clean code**, let’s connect and build something impactful. ⚙️✨
+If you’re looking for a developer who understands **real-world projects, scalability, clean code, and headless commerce**, let’s connect and build something impactful. ⚙️✨
