@@ -12,7 +12,6 @@ From crafting clean UIs to architecting solid backends, I enjoy turning ideas in
 - ✨ Open to collaboration on challenging and meaningful projects
 
 📫 **Connect with me**
-- GitHub: https://github.com/Im-Rv1007  
 - LinkedIn: https://in.linkedin.com/in/im-rv1007  
 
 ---
