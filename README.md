@@ -1,118 +1,82 @@
-# Welcome to my GitHub page 👋
-<!-- <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> -->
+# 👋 Hi, I’m Vikas Rathod (RV)
 
-<div align="center">
-  <img src="https://github.com/Im-Rv1007/Im-Rv1007/blob/main/vikas-rathod.gif" alt="Vikas Rathod" width="433" height="74" />
-</div>
+💻 **Full Stack Web Developer | 5+ Years Experience**
 
-## 👤 About Me
+I’m a passionate Full Stack Developer with **5+ years of hands-on experience** in building scalable, maintainable, and performance-driven web applications.  
+From crafting clean UIs to architecting solid backends, I enjoy turning ideas into reliable digital products.
 
-Hi there, my name is Vikas Rathod.
+- 👀 Focused on **modern web technologies**
+- ⚙️ Strong in **frontend + backend integration**
+- 🚀 Love building real-world, production-ready applications
+- 🌱 Constantly upgrading skills and exploring better architectures
+- ✨ Open to collaboration on challenging and meaningful projects
 
-I am a highly skilled Full Stack Developer with over 4 years of experience in designing, developing, implementing, and testing dynamic web applications. My expertise spans both front-end and back-end technologies, empowering me to create seamless, responsive, and scalable applications that deliver exceptional user experiences. I possess a deep understanding of database design, logic solving, and optimization techniques, which ensures that the solutions I build are not only robust but also efficient and tailored to meet diverse client needs.
+📫 **Connect with me**
+- GitHub: https://github.com/Im-Rv1007  
+- LinkedIn: https://in.linkedin.com/in/im-rv1007  
 
-I am proficient in a broad range of technologies, including front-end development with HTML, CSS, JavaScript, Bootstrap, SCSS, Vue.js, and React Native, as well as back-end development using PHP, MySQL, and REST APIs. Additionally, I have a strong foundation in version control with Git, testing with Cypress, and working with frameworks like OpenCart, WordPress, and MVC architecture. My approach to development emphasizes writing high-quality, maintainable code that is adaptable to future needs.
+---
 
-With a passion for continuous learning and problem-solving, I aim to deliver innovative, cutting-edge solutions while ensuring code reliability, performance, and scalability. I am committed to staying at the forefront of emerging technologies and enhancing my skill set to take on new challenges in full stack development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im-Rv1007&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-Check out my [portfolio](https://vikas-portfolio-19e8.vercel.app/) & [CV](https://drive.google.com/file/d/1WbmNMzt7UfKU1lgdkmAKwaPWIqZ_thQC/view?usp=sharing) to learn more about me and my projects.
-<!-- [GitHub résumé](https://resume.github.io/?arasgungore) to learn more about me and my projects. -->
+---
 
-## 📨 Social & Contact
+## 🛠 Tech Stack
 
-<div align="left">
-  <a href="mailto:rv1007199@gmail.com" target="_blank" rel="noreferrer"> <img alt="Vikas Rathod's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://vikas-portfolio-19e8.vercel.app/" target="_blank" rel="noreferrer"> <img alt="Vikas Rathod's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/im-rv1007/" target="_blank" rel="noreferrer"> <img alt="Vikas Rathod's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  &nbsp;
-</div>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+---
 
-## ⚙ Skills
+### ⚡ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-2E8B57?style=for-the-badge&logo=opencart&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+---
 
-### 👨‍💻 Languages
+### 🧠 State Management & Testing
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-<div align="left">
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-</div>
+---
 
+### 🛢 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
-### 🛠 Technologies
+### ⚙️ Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<div align="left">
-  <a href="https://www.opencart.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/opencart.svg" alt="OpenCart" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-</div>
+---
 
+## 📈 GitHub Stats
 
+![Vikas Rathod GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rv1007&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Im-Rv1007&theme=radical)
 
-### 📚 Libraries
+---
 
-<div align="left">
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-</div>
+## 📌 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rv1007&layout=compact&theme=radical)
 
+---
 
-
-
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/im-rv1007"> <img src="https://github-readme-stats.vercel.app/api?username=im-rv1007&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage%22%20alt=%22Aras%20G%C3%BCng%C3%B6re%27s%20GitHub%20Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/im-rv1007"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-rv1007&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-rv1007&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Vikas Rathod's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
-
-
-## Thanks for stopping by! Let's connect and build something amazing together. 🚀
+## 🤝 Let’s Build Something Solid
+If you’re looking for a developer who understands **real-world projects, scalability, and clean code**, let’s connect and build something impactful. ⚙️✨
